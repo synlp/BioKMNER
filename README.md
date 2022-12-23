@@ -2,7 +2,7 @@
 
 This is the implementation of [Improving Biomedical Named Entity Recognition with Syntactic Information](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03834-6) at BMC Bioinformatics.
 
-Please contact us at `yhtian@uw.edu` or `cuhksz.nlp@gmail.com` if you have any questions.
+Please contact us at `yhtian@uw.edu` if you have any questions.
 
 
 ## Citation
